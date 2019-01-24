@@ -6,7 +6,6 @@ body{
 }
 header{
   background-color: #F2C85E;
-  /*box-sizing: border-box;*/
   margin: 1rem;
 }
 h1{
@@ -17,7 +16,7 @@ h1{
 }
 h2{
   font-size: 26px;
-  color: #B02F3F;
+  color: #F7BA35;
 }
 h3{
   font-size: 11px;
